@@ -15,9 +15,9 @@ def hopper
           :languages => ["C"]
         }
      }
-     def nested_hash
+     nested_hash = {
        puts grace_hopper
-     end
+     }
 
 
 end
