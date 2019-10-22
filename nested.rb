@@ -14,9 +14,6 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
-        def nested_hash
-          puts grace_hopper
-        end
      }
 
 
