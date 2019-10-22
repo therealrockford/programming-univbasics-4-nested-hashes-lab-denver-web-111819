@@ -16,7 +16,7 @@ def hopper
         }
      }
      def nested_hash
-       puts programmer_hash.fetch(grace_hopper)
+       programmer_hash.fetch(grace_hopper)
      end
 
 
