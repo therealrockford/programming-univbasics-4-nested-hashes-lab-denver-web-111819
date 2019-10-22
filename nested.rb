@@ -15,9 +15,10 @@ def hopper
           :languages => ["C"]
         }
      }
+  def nested_hash
+    puts grace_hopper
+  end
 
-
-    
 end
 
 def alan_kay_is_known_for
