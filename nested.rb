@@ -16,7 +16,7 @@ def hopper
         }
      }
      def nested_hash
-       puts grace_hopper{}
+       puts grace_hopper
      end
 
 
